@@ -21,8 +21,15 @@ ul.nav{
   list-style-type:none;
 }
 
-a{
-  
+ul{
+  display: flex;
+}
+
+nav{
+  display: flex;
+}
+
+a{ 
   color:black;
 }
 
